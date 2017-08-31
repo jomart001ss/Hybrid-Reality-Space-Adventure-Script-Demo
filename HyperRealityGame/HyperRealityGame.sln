@@ -1,0 +1,41 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F4158DBF-4F1F-3BF9-45CE-5F395387BFDE}") = "HyperRealityGame", "Assembly-CSharp-firstpass.csproj", "{1052A86F-16BD-992D-E967-5D9208488CC3}"
+EndProject
+Project("{F4158DBF-4F1F-3BF9-45CE-5F395387BFDE}") = "HyperRealityGame", "Assembly-CSharp.csproj", "{2A844A90-25DE-FA87-A6BB-516A8A59A35D}"
+EndProject
+Project("{F4158DBF-4F1F-3BF9-45CE-5F395387BFDE}") = "HyperRealityGame", "Assembly-CSharp-Editor-firstpass.csproj", "{6D5DF053-F1BB-3EA1-D413-AD14654DF051}"
+EndProject
+Project("{F4158DBF-4F1F-3BF9-45CE-5F395387BFDE}") = "HyperRealityGame", "Assembly-CSharp-Editor.csproj", "{DABE9ABB-8F80-736B-FA86-D11CE1A647C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1052A86F-16BD-992D-E967-5D9208488CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1052A86F-16BD-992D-E967-5D9208488CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1052A86F-16BD-992D-E967-5D9208488CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1052A86F-16BD-992D-E967-5D9208488CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A844A90-25DE-FA87-A6BB-516A8A59A35D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A844A90-25DE-FA87-A6BB-516A8A59A35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A844A90-25DE-FA87-A6BB-516A8A59A35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A844A90-25DE-FA87-A6BB-516A8A59A35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D5DF053-F1BB-3EA1-D413-AD14654DF051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D5DF053-F1BB-3EA1-D413-AD14654DF051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D5DF053-F1BB-3EA1-D413-AD14654DF051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D5DF053-F1BB-3EA1-D413-AD14654DF051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DABE9ABB-8F80-736B-FA86-D11CE1A647C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DABE9ABB-8F80-736B-FA86-D11CE1A647C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DABE9ABB-8F80-736B-FA86-D11CE1A647C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DABE9ABB-8F80-736B-FA86-D11CE1A647C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
